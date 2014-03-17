@@ -1,0 +1,24 @@
+{
+  "name": "patterns.converse",
+  "version": "0.1",
+  "description": "A Patternslib pattern for converse.js",
+  "author": {
+    "name": "JC Brand",
+    "email": "jc@opkode.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jcbrand/patterns.converse.git"
+  },
+  "dependencies": {
+     "jquery": "1.8.3",
+     "patternslib": "~1.6.0"
+  },
+  "devDependencies": {
+  },
+  "licenses": [
+    {
+      "type": "MIT"
+    }
+  ]
+}
