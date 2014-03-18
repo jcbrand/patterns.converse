@@ -1,5 +1,5 @@
 ================
-pattern.converse
+patterns.converse
 ================
 
 This package provides a `Patternslib <http://patternslib.com>`_ pattern for
